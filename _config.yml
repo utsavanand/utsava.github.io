@@ -2,7 +2,7 @@ title: utsavanand.github.io
 description: Github supported website.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
